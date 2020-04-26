@@ -1,4 +1,4 @@
-# This Plugins are Avilabel for any Browsers.
+# This Plugins are Available For Any Browsers.
 ## Firefox and other Browsers Extensions for Bug bounty Hunters
 
 #### 1. Foxy Proxy
