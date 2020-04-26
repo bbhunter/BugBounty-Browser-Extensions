@@ -1,4 +1,5 @@
-## Firefox Browser Extensions for Bug bounty Hunters
+# This Plugins are Avilabel for any Browsers.
+## Firefox and other Browsers Extensions for Bug bounty Hunters
 
 #### 1. Foxy Proxy
 https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/
@@ -33,3 +34,6 @@ while in the process of bug hunting in that website.
 https://addons.mozilla.org/en-US/firefox/addon/hunterio/?src=recommended
 
 Get all the Emails from the Current browsing website
+
+#### 7. Wappalyzer : Know what Web Technologies does a website use.
+https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en
